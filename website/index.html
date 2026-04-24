@@ -10,13 +10,24 @@
 
 <div class="container">
 
+    <!-- Problem 5 -->
     <h2>Problem 5: Map Coloring</h2>
+    <p>Enter graph as: A:B,C; B:A,C; C:A,B</p>
+    <input type="text" id="mapInput" value="A:B,C; B:A,C,D; C:A,B,D; D:B,C">
+    <br>
     <button onclick="solveMap()">Solve Map Coloring</button>
     <p id="mapOutput"></p>
 
     <hr>
 
+    <!-- Problem 8 -->
     <h2>Problem 8: Navigation (BFS & DFS)</h2>
+    <p>Enter graph as: A:B,C; B:D; C:D; D:</p>
+    <input type="text" id="graphInput" value="A:B,C; B:D; C:D; D:">
+    <br>
+    <input type="text" id="startNode" placeholder="Start Node" value="A">
+    <input type="text" id="goalNode" placeholder="Goal Node" value="D">
+    <br>
     <button onclick="runSearch()">Find Paths</button>
     <p id="bfsOutput"></p>
     <p id="dfsOutput"></p>
