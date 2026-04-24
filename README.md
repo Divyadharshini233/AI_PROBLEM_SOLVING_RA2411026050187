@@ -2,9 +2,9 @@
 
 ## 👨‍💻 Team Details
 
-* Name 1: [Your Name]
+* Name 1: S.DIVYADHARSHINI
 * Name 2: [Teammate Name]
-* Register Number: [Your Register Number]
+* Register Number: RA2411026050187
 
 ---
 
@@ -50,8 +50,8 @@ streamlit run problem8_navigation/app.py
 
 ## 🌐 Live Demo
 
-* Problem 5: [Add Streamlit Link]
-* Problem 8: [Add Streamlit Link]
+* Problem 5: https://ai-problem-solving-ra-2411026050187-hazel.vercel.app/
+* Problem 8: https://ai-problem-solving-ra-2411026050187-hazel.vercel.app/
 
 ---
 
